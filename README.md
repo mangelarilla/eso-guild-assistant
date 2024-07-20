@@ -1,0 +1,1 @@
+# eso-guild-assistant
